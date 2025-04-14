@@ -1,5 +1,5 @@
 # Diabetes_Models_Comparitive_Analysis
-This project includes EDA, model comparison, SHAP analysis, and ROC curves to predict diabetes based on clinical data.
+This project includes EDA, model comparison, and ROC curves to predict diabetes based on clinical data.
 
 ## How to Run
 
